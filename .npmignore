@@ -13,6 +13,7 @@
 !/android/common
 /android/common/*
 !/android/common/src
+!/android/common/LICENSE
 !/android/CDVBackgroundGeolocation
 /android/CDVBackgroundGeolocation/*
 !/android/CDVBackgroundGeolocation/src
